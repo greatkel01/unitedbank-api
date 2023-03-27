@@ -1,2 +1,4 @@
-package com.kelvin.okoeki.app.model;public class User {
+package com.kelvin.okoeki.app.model;
+
+public class User {
 }
